@@ -10,7 +10,10 @@ natural (French, English, Swahili, Kinyarwanda, Mashi ) languages. Being a techn
 enthusiast, Christian Ciza Mihigo keeps meddling with trending technologies and trying
 out new frameworks and platforms. In his spare time, he reads books, follows sports, drools over gadgets, watches TV shows, plays games, and collects stamps. 
 
-- 📫 How to reach me: cizamihigochristianT@protonmail.com
+- 📫 How to reach me: 
+                      cizamihigochristianT@protonmail.com
+                      cizamihigochristian@gmail.com (personnal)
+                      +243971886089 / +250780726524
 <!--
 **cizamihigo/cizamihigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
