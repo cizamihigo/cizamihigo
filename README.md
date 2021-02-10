@@ -1,19 +1,16 @@
-### Hi there 👋
+### 🤝 Hello! My name is Ciza Mihigo Christian Rodrigue 👨 I live in Rwandae 👋
 
-Christian Ciza Mihigo is a researcher, programmer, and open source
-evangelist. His favorite research areas include NLP, IoT, and machine
-learning. He specializes in developing web and mobile apps and solutions.
+Christian Ciza Mihigo is a researcher, programmer, and open source evangelist. His favorite research areas include NLP, IoT, and machine learning. He specializes in developing web and mobile apps and solutions.
 
 Christian hails from BUKAVU, Democratic Republic of the Congo, now living in Rwanda, Kigali where he is also doing Undergraduate studies in Computer Science from the Kigali Indepedent University. 
+
 He is a proud polyglot of programming (C#, Java, JavaScript, PHP, Python, C, C ++) and
-natural (French, English, Swahili, Kinyarwanda, Mashi ) languages. Being a technology
-enthusiast, Christian Ciza Mihigo keeps meddling with trending technologies and trying
-out new frameworks and platforms. In his spare time, he reads books, follows sports, drools over gadgets, watches TV shows, plays games, and collects stamps. 
+natural (French, English, Swahili, Kinyarwanda, Mashi ) languages. Being a technology enthusiast, Christian Ciza Mihigo keeps meddling with trending technologies and trying out new frameworks and platforms. In his spare time, he reads books, follows sports, drools over gadgets, watches TV shows, plays games, and collects stamps. 
 
 - 📫 How to reach me: 
-                      cizamihigochristianT@protonmail.com
-                      cizamihigochristian@gmail.com (personnal)
-                      +243971886089 / +250780726524
+#### ✉ cizamihigochristianT@protonmail.com
+#### ✉ cizamihigochristian@gmail.com (personnal)
+#### 📞 +243971886089 / +250780726524 
 <!--
 **cizamihigo/cizamihigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
