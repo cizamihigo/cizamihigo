@@ -1,4 +1,4 @@
-### 🤝 Hello! My name is Ciza Mihigo Christian Rodrigue 👨 I live in Rwandae 👋
+### 🤝 Hello! My name is Ciza Mihigo Christian Rodrigue 👨 I live a congolese DR living Kigali Rwanda 👋
 
 Christian Ciza Mihigo is a researcher, programmer, and open source evangelist. His favorite research areas include NLP, IoT, and machine learning. He specializes in developing web and mobile apps and solutions.
 
